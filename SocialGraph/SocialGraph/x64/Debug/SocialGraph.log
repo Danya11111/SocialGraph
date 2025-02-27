@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\SocialGraph\SocialGraph\SocialGraph\Graph.cpp(20,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\SocialGraph\SocialGraph\SocialGraph\Graph.cpp(25,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SocialGraph.vcxproj -> C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\SocialGraph\SocialGraph\x64\Debug\SocialGraph.exe
